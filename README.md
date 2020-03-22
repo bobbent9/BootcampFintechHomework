@@ -62,3 +62,16 @@ Adding this capability will greatly increase their appeal to firms looking for a
 
 * What technologies would this additional product or service utilize?
 No new technologies would be required to develop this new tool for Orion Advisor Solutions. The company can build on their current experience and existing infrastructure to accomplish this addition. 
+
+
+Appendix - Sources
+https://orionadvisortech.com/blog/author/ericorionadvisor-com/
+https://orionadvisortech.com/about/
+https://orion.com/
+https://www.businesswire.com/news/home/20190411005159/en/NorthStar-Financial-Announces-Unification-Orion-Brand-New
+https://citywireusa.com/registered-investment-advisor/news/orion-parent-company-unveils-plans-for-rebrand-and-reorg/a1219697
+https://citywireusa.com/registered-investment-advisor/news/orion-acquires-10bn-tamp-sets-sights-on-envestnet-and-assetmark/a1109326
+https://www.businesswire.com/news/home/20190711005132/en/Orion-Advisor-Services-Acquire-Nextgen-Financial-Planning
+https://www.crunchbase.com/organization/orion-advisor-services-llc#section-overview
+https://t3technologyhub.com/wp-content/uploads/2019/01/2019-T3-Software-Survey-Report.pdf
+2020 T3 Survey Results (Uploaded to repository as PDF) - Could not find a copy on the web, but I was an attendee and have a copy that was e-mailed
